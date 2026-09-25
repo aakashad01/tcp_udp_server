@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("udp_server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18ae51c81fa219e209d00dd5203b1c3a7b0c438d")]
 [assembly: System.Reflection.AssemblyProductAttribute("udp_server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("udp_server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
